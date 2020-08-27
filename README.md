@@ -1,12 +1,10 @@
 ### Hi there, I'm [Pedro][website] 👋
 
 ## I’m currently working on
- - BetterReads / A full stack application using NextJS NodeJS Typescript GraphQL
  - MacroCalculator / A full stack application using ReactJS Typescript C# ASP.NET
 
 ## I'm currently learning
 - ASP.NET / MacroCalculator
-- GraphQL / BetterReads
 - C++ / College
 
 ## 🥅 2020 Goals: 
