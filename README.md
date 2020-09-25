@@ -3,10 +3,6 @@
 ## I’m currently working on
  - MacroCalculator / A full stack application using ReactJS Typescript C# ASP.NET
 
-## I'm currently learning
-- ASP.NET / Macro Calculator
-- C++ / College
-
 ## 🥅 2020 Goals: 
 - Contribute more to Open Source projects
 - Kickstart my career with a software engineering job
