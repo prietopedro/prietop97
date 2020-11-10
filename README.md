@@ -1,23 +1,40 @@
-### Hi there, I'm [Pedro][website] 👋
 
-## I’m currently working on
- - MacroCalculator / A full stack application using ReactJS Typescript C# ASP.NET
-
-## 🥅 2020 Goals: 
-- Contribute more to Open Source projects
-- Kickstart my career with a software engineering job
+### It's me Pedro
 
 
-### Connect with me:
+A software engineer specialized in web development. My skills are broad from front-end using JS and React to back-end using NodeJS with Express. I'm always eager to learn new technologies and improve my current skills. I enjoy each aspect of being a developer, and love building or improving sites. 
 
-[<img align="left" alt="pedroprieto.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+-----
 
-<br />
-<br />
+Main Skills:
+
+- Web Develpment with React.js
+- API development with NodeJS
+
+Improving:
+
+- C# ASP.NET Core API development
+- C++
 
 
----
 
-[website]: https://pedroprieto.dev
-[linkedin]: https://linkedin.com/in/pedroprietodev
+-----
+<a href="https://github.com/prietopedro">
+  <img src="https://komarev.com/ghpvc/?username=prietopedro&style=flat-square" />
+</a>
+
+
+***
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=prietopedro&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=buefy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prietopedro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+-----
+
+### 📫 How to reach me:
+- Email : pedro.prieto003@gmail.com
+- LinkedIn : [pedroprieto-dev](https://www.linkedin.com/in/pedroprieto-dev/)
+- Portfolio : [pedroprieto.dev](https://pedroprieto.dev) 
+
+Have a Great Day!
+
