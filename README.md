@@ -11,12 +11,6 @@ Main Skills:
 - Web Develpment with React.js
 - API development with NodeJS
 
-Improving:
-
-- C# ASP.NET Core API development
-- C++
-
-
 
 -----
 <a href="https://github.com/prietopedro">
