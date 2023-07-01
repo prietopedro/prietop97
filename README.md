@@ -18,11 +18,6 @@ Main Skills:
 </a>
 
 
-***
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=prietopedro&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=buefy)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prietopedro&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
-
 -----
 
 ### 📫 How to reach me:
